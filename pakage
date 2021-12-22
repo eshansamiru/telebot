@@ -1,0 +1,2 @@
+py -m venv tutorial_env
+tutorial_env\Scripts\activate
